@@ -8,7 +8,9 @@ background = "secondary"
 menu_title = "Further Resources"
 
 [asset]
-  image = "logo.svg"
+#  image = "logo.svg"
+#  image = "LCI_primary_sig_3color.png"
+  image = "LCI_secondary_sig_stacked_left_gray_web.png"
   text = "Logo Subtext"
 +++
 

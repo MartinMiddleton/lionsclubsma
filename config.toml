@@ -37,10 +37,12 @@ googleAnalytics = ""
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.ico"
+#    favicon = "favicon.ico"
+    favicon = "lionlogo_2c.ico"
+#    favicon = "LCI_emblem_2color_web.png"
     favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+#    favicon_png = "favicon.png"
+#    favicon_svg = "favicon.svg"
 
   # Piwik tracking
   [params.analytics.piwik]

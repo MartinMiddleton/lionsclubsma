@@ -14,11 +14,12 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "logo.svg"
+#  image = "logo.svg"
+  image = "LCI_primary_sig_3color.png"
   text = "Syna"
 
-[repo_button]
-  url = "https://github.com/okkur/syna"
-  text = "Star" # default: "Star"
-  icon = "fab fa-github" # defaults: "fab fa-github"
+#[repo_button]
+#  url = "https://github.com/okkur/syna"
+#  text = "Star" # default: "Star"
+#  icon = "fab fa-github" # defaults: "fab fa-github"
 +++
